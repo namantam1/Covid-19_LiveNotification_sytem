@@ -1,0 +1,2 @@
+# Covid-19_LiveNotification_sytem
+ This is a python base system which gives you notification of number of cases of Covid-19 in India state wise in the fixed interval of time. It takes the data from the official website of india.
